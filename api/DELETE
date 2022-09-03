@@ -1,0 +1,3 @@
+/subscriptions/byid/{id}
+/actions/followed/tag/{tag_id}?view=app_3.0
+/likes/{type}/{id}?view=app_3.0

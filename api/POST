@@ -1,0 +1,14 @@
+/subscriptions/byid/{id}
+/subscriptions/3.12/email/subscribe
+/subscriptions/push/subscribe
+/actions/followed/tag/{tag_id}?view=app_3.0
+/likes/{type}/{id}?view=app_3.0
+/paid_subscriptions/verify_receipt/android?view=app_3.0
+/api_v2/auth/forgot-password
+/api_v2/auth/login
+/api_v2/auth/merge
+/api_v2/auth/register
+/facebook/sign-in
+/google/sign-in
+/twitter/sign-in
+/api_v2/auth/nonreg
